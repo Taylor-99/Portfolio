@@ -1,0 +1,35 @@
+
+[
+    {
+      "name": "Pirate Adventure Trivia Game",
+      "live": "https://pirate-adventure-trivia-game.vercel.app",
+      "git": "https://github.com/Taylor-99/Project-1-Trivia-Game",
+      "image": "https://imgur.com/cGs17gy.png",
+      "skills": "HTML, CSS, DOM, JavaScript",
+      "description": "Players go on a fictional pirate journey where they battle bad pirates via trivia games and get real-time feedback for correct/incorrect answers while also being able to track their health and store rewards earned from the different trivia levels."
+    },
+    {
+      "name": "Reader's Jounal",
+      "live": "https://readersjournal-27f55d6eb9b9.herokuapp.com/library",
+      "git": "https://github.com/Taylor-99/Readers-Journal",
+      "image": "https://imgur.com/nCeGYzj.png",
+      "skills": "HTML, CSS, JavaScript, Embedded JavaScript (EJS), MongoDB, Node.js, JSON, RESTful, Express.js",
+      "description": "Users are able to login/logout and enables users to log their readings, whether books, articles, or other materials, with features for commenting on entire readings or specific chapters/sections, and the ability to add favorites for easy access."
+    },
+    {
+      "name": "Sound Scope",
+      "live": "https://soundscope.netlify.app/",
+      "git": "https://github.com/GrabberKaibutsu/SoundScope",
+      "image": "https://imgur.com/wloR6Gr.png",
+      "skills": "HTML, CSS, JavaScript, React.js, Tailwind, MongoDB, Node.js, JSON, Mongoose, Express.js",
+      "description": "Users can browse music and artists through the Spotify API, add songs or artists to their favorites for easy access and personalized playlists, and log in and out securely"
+    },
+    {
+      "name": "Garden Health",
+      "live": "https://garden-health-frontend-ok73.vercel.app/auth",
+      "git": "https://github.com/Taylor-99/Garden-Health-Frontend",
+      "image": "https://imgur.com/5DC6Wdb.png",
+      "skills": "HTML, CSS, JavaScript, React.js, Next.js, Amazon Web Service (AWS), Express.js, MongoDB, Mongoose, JSON, Node.js",
+      "description": "Players go on a fictional pirate journey where they battle bad pirates via trivia games and get real-time feedback for correct/incorrect answers while also being able to track their health and store rewards earned from the different trivia levels."
+    }
+  ]
