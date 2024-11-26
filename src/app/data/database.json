@@ -1,0 +1,21 @@
+
+[
+    {
+        "database": "MongoDB",
+        "image": "/database-storage.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/database", 
+        "title": "database icons",
+        "text": "Database icons created by phatplus - Flaticon"
+
+    },
+    {
+        "database": "PostgreSQL",
+        "image": "/postgresql.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/postgresql", 
+        "title": "postgresql icons",
+        "text": "Postgresql icons created by LAFS - Flaticon"
+
+    }
+]

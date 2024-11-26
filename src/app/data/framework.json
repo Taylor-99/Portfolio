@@ -1,0 +1,29 @@
+[
+    {
+        "framework": "Django",
+        "image": "/django.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/django", 
+        "title": "django icons",
+        "text": "Django icons created by Freepik - Flaticon"
+
+    },
+    {
+        "framework": "Next.js",
+        "image": "/letter-n.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/letter-n", 
+        "title": "letter n icons",
+        "text": "Letter n icons created by shohanur.rahman13 - Flaticon"
+
+    },
+    {
+        "framework": "Tailwind",
+        "image": "/wind.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/wind", 
+        "title": "wind icons",
+        "text": "Wind icons created by riajulislam - Flaticon"
+
+    }
+]

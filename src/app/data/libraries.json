@@ -1,0 +1,29 @@
+[
+    {
+        "library": "React.js",
+        "image": "/library.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/reactjs", 
+        "title": "reactjs icons",
+        "text": "Reactjs icons created by amoghdesign - Flaticon"
+
+    },
+    {
+        "library": "Express.js",
+        "image": "/node-js.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/node-js", 
+        "title": "node js icons",
+        "text": "Node js icons created by Freepik - Flaticon"
+
+    },
+    {
+        "library": "Mongoose",
+        "image": "/letter-m.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/letter-m", 
+        "title": "letter m icons",
+        "text": "Letter m icons created by Fathema Khanom - Flaticon<"
+
+    }
+]

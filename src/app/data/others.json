@@ -1,0 +1,74 @@
+[
+    {
+        "skill": "RESTful",
+        "image": "/api.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/ap", 
+        "title": "api icons",
+        "text": "Api icons created by berkahicon - Flaticon"
+
+    },
+    {
+        "skill": "Visual Studio Code",
+        "image": "/windows.png",
+        "experiece": "2 Year",
+        "attribute": "https://www.flaticon.com/free-icons/studio", 
+        "title": "studio icons",
+        "text": "Studio icons created by Vector Stall - Flaticon"
+
+    },
+    {
+        "skill": "Postman",
+        "image": "/flying.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/astronaut", 
+        "title": "astronaut icons",
+        "text": "Astronaut icons created by Freepik - Flaticon"
+
+    },
+    {
+        "skill": "GitHub",
+        "image": "/github-2.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/github", 
+        "title": "github icons",
+        "text": "Github icons created by Laisa Islam Ani - Flaticon"
+
+    },
+    {
+        "skill": "Trello",
+        "image": "/trello.png",
+        "experiece": "2 Year",
+        "attribute": "https://www.flaticon.com/free-icons/brands-and-logotypes", 
+        "title": "brands and logotypes icons",
+        "text": "Brands and logotypes icons created by Freepik - Flaticon"
+
+    },
+    {
+        "skill": "Figma",
+        "image": "/figma.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/figma", 
+        "title": "figma icons",
+        "text": "Figma icons created by Freepik - Flaticon"
+
+    },
+    {
+        "skill": "R Studio",
+        "image": "/letter-r.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/letter-r", 
+        "title": "letter r icons",
+        "text": "Letter r icons created by Hight Quality Icons - Flaticon"
+
+    },
+    {
+        "skill": "Node.js",
+        "image": "/nodejs.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/nodejs", 
+        "title": "nodejs icons",
+        "text": "Nodejs icons created by Freepik - Flaticon"
+
+    }
+]

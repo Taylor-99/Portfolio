@@ -1,11 +1,74 @@
 
 [
     {
-        "language": "",
-        "image": "",
-        "experiece": "",
-        "attribute": ""
+        "language": "JavaScript",
+        "image": "/js.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/javascript", "title": "javascript icons",
+        "text": "Javascript icons created by Freepik - Flaticon"
 
     },
+    {
+        "language": "HTML",
+        "image": "/html.png",
+        "experiece": "1 Year",
+        "attribute": "https://www.flaticon.com/free-icons/html",
+        "title": "html icons",
+        "text": "Html icons created by Freepik - Flaticon"
+
+    },
+    {
+        "language": "CSS",
+        "image": "/text.png",
+        "experiece": "1 year",
+        "attribute": "https://www.flaticon.com/free-icons/css",
+        "title": "css icons",
+        "text": "Css icons created by iconsimple - Flaticon"
+    },
+    {
+        "language": "Python",
+        "image": "/python.png",
+        "experiece": "1.5 Years",
+        "attribute": "https://www.flaticon.com/free-icons/python",
+        "title": "python icons",
+        "text": "Python icons created by Freepik - Flaticon"
+
+    },
+    {
+        "language": "JSON",
+        "image": "/json-file.png",
+        "experiece": "1 year",
+        "attribute": "https://www.flaticon.com/free-icons/json-file",
+        "title": "json file icons",
+        "text": "Json file icons created by Smashicons - Flaticon"
+
+    },
+    {
+        "language": "R",
+        "image": "/r.png",
+        "experiece": "1.5 years",
+        "attribute": "https://www.flaticon.com/free-icons/r",
+        "title": "r icons",
+        "text": "R icons created by Becris - Flaticon"
+
+    },
+    {
+        "language": "Java",
+        "image": "/java.png",
+        "experiece": "1 year",
+        "attribute": "https://www.flaticon.com/free-icons/java",
+        "title": "java icons",
+        "text": "Java icons created by Freepik - Flaticon"
+
+    },
+    {
+        "language": "C",
+        "image": "/letter-c.png",
+        "experiece": "1 year",
+        "attribute": "https://www.flaticon.com/free-icons/letter-c",
+        "title": "letter c icons",
+        "text": "Letter c icons created by Hight Quality Icons - Flaticon"
+
+    }
     
 ]
