@@ -9,6 +9,9 @@ import Link from 'next/link'
 import projects from "../data/projects.json"
 
 const Projects = () => {
+
+    const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+    
   return (
     <div>
 
@@ -25,7 +28,6 @@ const Projects = () => {
         <ul className="grid grid-cols-1 gap-6 px-4">
         {projects &&
             projects.map((project, idx) => {
-            const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
             const loaded = () => {
                 return (
@@ -36,10 +38,14 @@ const Projects = () => {
                     {/* Image */}
                     <div className="sm:w-1/3 flex-shrink-0">
                     <Link href={project.live} target="_blank" rel="noopener noreferrer">
-                        <img
+                        <Image
                         src={project.image}
-                        className="w-full h-auto object-cover rounded-md"
+                        width={75}
+                        height={75}
                         alt="Project Cover"
+                        sizes="(max-width: 640px) 96px, (max-width: 1024px) 128px, 160px"
+                        className="w-full h-auto object-cover rounded-md"
+                        unoptimized
                         />
                     </Link>
                     </div>

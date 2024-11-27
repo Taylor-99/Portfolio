@@ -89,7 +89,7 @@ const Resume = () => {
                     <h3 className="font-semibold text-gray-800">Gardening and Health | Solo Project</h3>
                     <p className="text-sm text-gray-600">June 2024 | <Link href="https://garden-health-frontend-ok73.vercel.app/auth" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Live</Link> | <Link href="https://github.com/Taylor-99/Garden-Health-Frontend" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">GitHub - Frontend</Link> | <Link href="https://github.com/Taylor-99/Garden-Health-Backend" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">GitHub - Backend</Link></p>
                     <ul className="list-disc list-inside text-gray-700 space-y-1">
-                        <li>Developed a user and mobile friendly web app to track users' garden, mental health, and physical health using HTML, CSS, JavaScript, React, MongoDB, Node.js, and Next.js.</li>
+                        <li>Developed a user and mobile friendly web app to track users garden, mental health, and physical health using HTML, CSS, JavaScript, React, MongoDB, Node.js, and Next.js.</li>
                         <li>Users can log in to track their plants, mental health, and physical activities. Users can complete daily challenges as well as complete daily and weekly reminders to maintain their pl;ants and stay active. The app allows users to browse and favorite plants from a plant API, access detailed information, and engage with a community page by viewing, posting, and interacting with other users posts.</li>
                     </ul>
                 </div>
@@ -155,7 +155,7 @@ const Resume = () => {
                     </div>
                     <div className="mt-4">
                     <h3 className="font-semibold text-gray-800">New College of Florida | Sarasota, FL</h3>
-                    <p className="text-sm text-gray-600">Bachelor's of Arts in Psychology with Computer Science secondary field</p>
+                    <p className="text-sm text-gray-600">Bachelor&apos;s of Arts in Psychology with Computer Science secondary field</p>
                     </div>
                 </section>
             </div>
