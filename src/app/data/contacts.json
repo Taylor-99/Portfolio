@@ -1,0 +1,32 @@
+[
+    {
+      "href": "mailto:Taylor.e.young99@gmail.com",
+      "image": "/gmail.png",
+      "alt": "Send me an Email",
+      "label": "Gmail"
+    },
+    {
+      "href": "https://www.linkedin.com/in/taylor-e-young/",
+      "image": "/linkedin-2.png",
+      "alt": "Visit My LinkedIn",
+      "label": "LinkedIn"
+    },
+    {
+      "href": "https://github.com/Taylor-99",
+      "image": "/github-2.png",
+      "alt": "View my GitHub",
+      "label": "GitHub"
+    },
+    {
+      "href": "https://codepen.io/Taylor-io",
+      "image": "/3d-cube.png",
+      "alt": "View my Code",
+      "label": "CodePen"
+    },
+    {
+      "href": "https://docs.google.com/document/d/1g5_BKtvFA9-W8fqRc-bN_TDMcSIW8it9tDyRIM35-34/edit?usp=sharing",
+      "image": "/google-docs.png",
+      "alt": "View my Resume",
+      "label": "Resume"
+    }
+  ]
